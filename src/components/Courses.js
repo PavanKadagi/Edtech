@@ -7,7 +7,7 @@ export default function Courses() {
           <p className="latest-articles">Courses</p>
           <div className="img-card">
             <li>
-              <img src="./images/front-end-developer.png" alt="currency" />
+              <img src="./images/front-end-developer.png" alt="front-end-developer" />
               <div className="card-data">
                 <span>Front End Developer</span>
                 <p className="the-world"> 100% Live Online Classes</p>
@@ -19,7 +19,7 @@ export default function Courses() {
               </div>
             </li>
             <li>
-              <img src="./images/back-end-developer.png" alt="restaurant" />
+              <img src="./images/back-end-developer.png" alt="back-end-developer" />
               <div className="card-data">
                 <span>Back End Developer</span>
                 <p className="the-world"> 100% Live Online Classes</p>
@@ -31,7 +31,7 @@ export default function Courses() {
               </div>
             </li>
             <li>
-              <img src="./images/full-stack-developer.jpg" alt="plane" />
+              <img src="./images/full-stack-developer.jpg" alt="full-stack-developer" />
               <div className="card-data">
                 <span>Full Stack Developer</span>
                 <p className="the-world"> 100% Live Online Classes</p>
@@ -43,7 +43,7 @@ export default function Courses() {
               </div>
             </li>
             <li>
-              <img src="./images/devops.png" alt="confetti" />
+              <img src="./images/devops.png" alt="devops" />
               <div className="card-data">
                 <span>DevOps </span>
                 <p className="the-world"> 100% Live Online Classes</p>
